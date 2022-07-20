@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Who-am-I-d85d53be87ff47ca9bcad3b4aed6513c',
+  rootNotionPageId: 'Welcome-to-M-s-World-d85d53be87ff47ca9bcad3b4aed6513c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Human Complement Experiment',
-  domain: 'https://www.notion.so/hcexperiment/Who-am-I-d85d53be87ff47ca9bcad3b4aed6513c',
+  domain: 'https://hcexperiment.notion.site/Welcome-to-M-s-World-d85d53be87ff47ca9bcad3b4aed6513c',
   author: 'Matrix',
 
   // open graph metadata (optional)
