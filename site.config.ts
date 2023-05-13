@@ -2,23 +2,23 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Welcome-to-M-s-World-d85d53be87ff47ca9bcad3b4aed6513c',
+  rootNotionPageId: 'Humanoid-Enhancement-Program-d85d53be87ff47ca9bcad3b4aed6513c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Human Complement Experiment',
-  domain: 'https://hcexperiment.notion.site/Welcome-to-M-s-World-d85d53be87ff47ca9bcad3b4aed6513c',
-  author: 'Matrix',
+  name: '类人补完实验',
+  domain: 'https://www.notion.so/hcexperiment/Humanoid-Enhancement-Program-d85d53be87ff47ca9bcad3b4aed6513c',
+  author: 'Maynor',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'Matrix37969201',
-  github: '0x23Matrix',
+  twitter: '',
+  github: '',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
